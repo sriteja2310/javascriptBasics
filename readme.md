@@ -1,10 +1,4 @@
-# My Portfolio
-This is my portfolio
+#Course: Learn Javascript basics
 
-## This is my To-Do list
-Javascript
-ReactJS
-AWS
-NodeJS
 
 
